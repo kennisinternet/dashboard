@@ -1,2 +1,3 @@
-# landing-page
-Landing Page for dashboard.
+# Welcome to Kennis
+
+Soon...
